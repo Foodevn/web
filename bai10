@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head> </head>
+  <body>
+    <header>
+      <img
+        width="300"
+        src="https://gudlogo.com/wp-content/uploads/2019/05/logo-chu-cho-pug-25.png"
+      />
+
+      <h1>Trang blog của Phúc</h1>
+
+      <nav>
+        <ul>
+          <li><a href="">Home</a></li>
+
+          <li><a href="">Blog</a></li>
+
+          <li><a href="">About</a></li>
+        </ul>
+      </nav>
+    </header>
+    <article>
+      <header>
+        <h1>Tiêu đề bài viết</h1>
+
+        <p>người viết Nguyễn Văn Tèo</p>
+
+        <p>ngày xuất bản: 11/11/2022</p>
+      </header>
+
+      <p>...phần nội dung bài viết…</p>
+      <section>
+
+                        <h1>Chương 1</h1>
+
+                        <p>Nội dung của chương 1</p>
+
+            </section>
+
+            <section>
+
+                        <h1>Chương 2</h1>
+
+                        <p>Nội dung của chương 2</p>
+
+            </section>   
+       <footer>
+
+                        <p><small>Copyright &copy;2018 Tèo.</small></p>
+
+                        <nav>
+
+                                    <ul>
+
+                                                <li><a href="">Previous</a></li>
+
+                                                <li><a href="">Next</a></li>
+
+                                    </ul>
+
+                        </nav>
+
+            </footer>
+    </article>
+    
+
+    <footer></footer>
+  </body>
+</html>
