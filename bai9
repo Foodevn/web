@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head> </head>
+  <body>
+    <ul>
+      kiểm tra trên trang validator sẽ bị báo lỗi dòng này!
+      <li>cơm tù</li>
+      <li>cơm chó</li>
+      <li>cơm thừa</li>
+    </ul>
+    <hr />
+    <ol type="a" start="4">
+      <li>Lê văn Bơ</li>
+      <li>Trần văn Mít</li>
+      <li>Nguyễn văn tèo</li>
+    </ol>
+    <hr />
+    <dl>
+      <dt>Html</dt>
+      <dd>hypertext Markup language </dd>
+      <dd>siêu văn bản đánh dấu dữ liệu</dd>
+      <dt>www</dt>
+      <dd>world wide web</dd>
+    </dl>
+    <hr>
+    
+    
+    
+    
+    
+  </body>
+</html>
