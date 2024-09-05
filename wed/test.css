@@ -1,0 +1,30 @@
+h1 {
+    color: green;
+    border-bottom: 1px solid orange;
+}
+
+p {
+    font-size: large;
+    font-family: sans-serif;
+    color: rgb(136, 10, 161);
+}
+
+h2 {
+    margin-left: 100px;
+    color: blue;
+}
+
+img {
+
+    float: right;
+    margin: 0 12px;
+  
+
+}
+
+body,
+main {
+
+    background-color: #aeeaf1 !important;
+
+}
